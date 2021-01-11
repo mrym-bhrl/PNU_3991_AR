@@ -23,7 +23,7 @@
 
 ## بخش دروس کارشناسی
 - [خلاصه ارزیابی درس_روش پژوهش وارائه](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/dars.pdf)
-- [ارایه شفاهی پاورپوینت]
+- [ارایه شفاهی پاورپوینت](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/pumpinglemma.mpeg)
 --------------------
 # فعالیت گروهی
 
