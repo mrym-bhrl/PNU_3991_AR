@@ -23,7 +23,7 @@
 
 ## بخش دروس کارشناسی
 - [خلاصه ارزیابی درس_روش پژوهش وارائه](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/dars.pdf)
-- [ارایه شفاهی پاورپوینت](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/pumpinglemma.mpeg)
+- [ارایه شفاهی پاورپوینت](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/pumpinglemma.mp3)
 --------------------
 # فعالیت گروهی
 
@@ -40,7 +40,7 @@
 
 ------------
 # گروه ها
- 1. [  RPM-07  مريم بهار لو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/07_%D9%85%D8%B1%D9%8A%D9%85%20%D8%A8%D9%87%D8%A7%D8%B1%D9%84%D9%88%D9%82%D8%B1%D9%87%20%D8%A8%D9%84%D8%B7%D8%A7%D9%82%D9%8A)
+ 1. [  RPM-07  مريم بهارلو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/07_%D9%85%D8%B1%D9%8A%D9%85%20%D8%A8%D9%87%D8%A7%D8%B1%D9%84%D9%88%D9%82%D8%B1%D9%87%20%D8%A8%D9%84%D8%B7%D8%A7%D9%82%D9%8A)
  
  1. [ RPM-51 فاطمه قاسمی نیاسر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/51_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A%20%D9%86%D9%8A%D8%A7%D8%B3%D8%B1)
  
