@@ -11,7 +11,7 @@
 - [Github](https://github.com/mrym-bhrl)
 - [PNU_3991_AR](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/README.md)
 - [رزومه](http://mrym-bhrl.github.io)
-- [SOP](http://mryam-bhrl.SOP)
+- [SOP](http://SOP)
 - [JavaScript certificate](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/JavaScript_certificate.jpg)
 
 > ارزیابی ها
