@@ -19,7 +19,7 @@
 ##  بخش عمومی
 - [خلاصه ارزیابی رزومه و انگیزه نامه](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/rez.pdf)
 
-- [خلاصه ارزیابی بخش عمومی](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/arz.jpg)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/arz.pdf)
 
 ## بخش دروس کارشناسی
 - [خلاصه ارزیابی درس_روش پژوهش وارائه](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/dars.pdf)
