@@ -13,7 +13,7 @@
 - [رزومه](http://mrym-bhrl.github.io)
 - [SOP](http://mrym-bhrl.github.io/SOP)
 - [JavaScript certificate](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/JavaScript_certificate.jpg)
-- [jlord patchwork](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/jlord.)
+- [jlord patchwork](https://github.com/mrym-bhrl/PNU_3991_AR/blob/main/jlord.jpg)
 
 > ارزیابی ها
 
